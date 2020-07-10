@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+
+- I'm Daiane and currently working from home in Ohio (USA) for Getulio Vargas Foundation in Rio de Janeiro (Brazil).
+- I use Github to develop projects related to Data Science (Statistics and data visualization).
+
 
 <!--
 **daianemarcolino/daianemarcolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

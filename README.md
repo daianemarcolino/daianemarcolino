@@ -1,7 +1,9 @@
-### Hello 👋
+### Hello!! 😄
 
 - I'm Daiane and currently working from home in Ohio (USA) for Getulio Vargas Foundation in Rio de Janeiro (Brazil).
-- I use Github to develop projects related to Data Science (Statistics and data visualization).
+- I'm a Statistician
+- I'm working on projects with focus on data analysis, time series forecasting, and data visualization.
+- I used to be a teacher while I was in Brazil. That was something that brought me lots of joy. Maybe, someday, I will teach in the USA.
 
 
 <!--

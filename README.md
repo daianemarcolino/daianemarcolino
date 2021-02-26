@@ -1,10 +1,10 @@
 ### Hello!! 😄
 
-- I'm Daiane and currently working from home in Ohio (USA) for Getulio Vargas Foundation in Rio de Janeiro (Brazil).
-- I'm a Statistician
-- I'm working on projects with focus on data analysis, time series forecasting, and data visualization.
-- I used to be a teacher while I was in Brazil. That was something that brought me lots of joy. Maybe, someday, I will teach in the USA.
-
+I'm
+- Daiane.
+- a Statistician.
+- currently working from home in Ohio (USA) for [Standard Normal](https://standardnormal.com/) (investment firm).
+- working on projects with focus on data analysis, time series forecasting, and data visualization. 
 
 <!--
 **daianemarcolino/daianemarcolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

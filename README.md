@@ -1,12 +1,12 @@
 ### Hello!! 😄
 
-I'm
+<!--I'm
 - Daiane.
 - a Statistician.
-- currently working from home in Henderson, NV (USA) as a Statistial Analyst for [Standard Normal](https://standardnormal.com/) (investment firm).
+- currently working from home in Henderson, NV (USA) as a Statistical Analyst for [Standard Normal](https://standardnormal.com/) (investment firm).
 - working on projects with focus on energy trading, data analysis, time series forecasting, and data visualization. 
 
-<!--
+
 **daianemarcolino/daianemarcolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
